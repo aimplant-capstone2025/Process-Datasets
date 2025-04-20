@@ -16,4 +16,7 @@ Augmentation -> Capstone_augment.ipynb :   [![Open in Colab](https://colab.resea
 
 Image Analysis -> images_style_analysis.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/images_style_analysis.ipynb) 
 
+Training Splits -> Capstone_split_for_training.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/Capstone_split_for_training.ipynb) 
+
+
 
