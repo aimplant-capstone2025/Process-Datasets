@@ -12,11 +12,11 @@ Old version split -> split_capstone_datasets.ipynb :   [![Open in Colab](https:/
 
 New version split -> Capstone_datasets_split_process.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/Capstone_datasets_split_process.ipynb) 
 
+New version with checked datasets split -> Capstone_checked_datasets_split_process.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/Capstone_checked_datasets_split_process.ipynb)  
+
 Augmentation -> Capstone_augment.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/Capstone_augment.ipynb) 
 
 Image Analysis -> images_style_analysis.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/images_style_analysis.ipynb) 
 
 Training Splits -> Capstone_split_for_training.ipynb :   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aimplant-capstone2025/Process-Datasets/blob/main/Capstone_split_for_training.ipynb) 
-
-
 
